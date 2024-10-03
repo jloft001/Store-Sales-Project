@@ -41,6 +41,8 @@ In working to manipulate the data, one limitation faced, was being able to conve
 
 Analysis results summarized as follows: 
 
+![Store Sales Dashboard (1)](https://github.com/user-attachments/assets/018cfd51-f8f0-4384-865d-54d26e7b32cd)
+
 This district of 7 stores, dependent on its expeditures could be a profitable district. Based on the information gathered, its best performing store is store id: 4.
 
 
