@@ -45,7 +45,15 @@ Analysis results summarized as follows:
 
 This district of 7 stores, dependent on its expeditures could be a profitable district. Based on the information gathered, its best performing store is store id: 4 with an aggregated sales volume of $286M for the course of 3 years.
 
-Stores 7, 5, and 3 seem the be the lower volume stores, resulting in 
+Stores 7, 5, and 3 seem the be the lower volume stores, resulting in negative sales impact on the district.
+
+The data analysis result of the 'ifholiday' count according to sales determined that the sales volume is not dependent on the week consisting of a holiday. Nor did the aggregation of holiday sales surpass normal weeks of sales.
+
+## Recommendations
+
+Based on the analysis, I recommend the following actions:
+
+Created a clearance sale of merchandise within the departments experiencing astronomical decreases in sales. As store #7 has only 56 departments, this could be based on location or demand for specific items. Eliminating unnecessary departments results in sustaining cash on hand rather than creating a budget for merchandise that will not bring in a profit or return on investment. 
 
 
 
