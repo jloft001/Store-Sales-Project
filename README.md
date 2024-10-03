@@ -35,11 +35,8 @@ Although this dataset was simplistic is size, I chose to clean this data within 
 
 In working to manipulate the data, one limitation faced, was being able to convert the dates to standard form for SQL. Despite utilizing resources available and input accurate codes which returned successfully, the week end date remained in its original format.
 
-SELECT store_id,
-       department,
-       week_end_date,
-       weekly_sales
-FROM store_sales
-WHERE week_end_date BETWEEN '2010-01-01' AND '2010-12-31'
-GROUP BY store_id, department, week_end_date, weekly_sales;
+![Store query  (1)](https://github.com/user-attachments/assets/e662c731-1707-439b-a7c5-e2ead453b1c2)
 
+## Findings/Results
+
+Analysis results summarized as follows: 
