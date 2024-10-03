@@ -19,7 +19,7 @@ This repository will present a data analysis on general store sales, evaluating 
 
 ## Data Source
 
-Sales Dataset: The primary dataset used for this analysis is the "store_sales_data.csv" file, containing columns pertaining to the store id, department number, the week end date, the sales for the given week and if that week consisted of a holiday.
+Sales Dataset: The primary dataset used for this analysis that consisted of 5 fields and 65,533 rows, is the "store sales-data.csv (2).pdf" file, containing fields specific to the store id, department number, the week end date, the sales for the given week and if that week consisted of a holiday.
 
 ## Tools
 
@@ -40,3 +40,7 @@ In working to manipulate the data, one limitation faced, was being able to conve
 ## Findings/Results
 
 Analysis results summarized as follows: 
+
+This district of 7 stores, dependent on its expeditures could be a profitable district. Based on the information gathered, its best performing store is store id: 4.
+
+
